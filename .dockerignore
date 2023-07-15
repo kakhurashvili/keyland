@@ -1,0 +1,17 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.env
+project detail.md
+<section class="featured-section product.html
+db.sqlite3
+README.md
+/env
+.shots
+shots
+portotheme.com
+.portotheme.com
+project detail.md
+.gitignore
